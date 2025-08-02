@@ -16,7 +16,7 @@ Each solution here is a step in my evolution as a developer. Feel free to explor
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/ramonsillva/LeetCode-75.git](https://github.com/ramonsillva/LeetCode-75.git)
+    git clone (https://github.com/ramonsillva/LeetCode-75.git)
     ```
 2.  Navigate to the folder of the solution you want to see.
 3.  Inside each folder, you will find:
